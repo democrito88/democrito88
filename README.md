@@ -9,8 +9,7 @@ I'm Demócrito. A PHP and JavaScript padawan web developer.
 - ☕ "Never program when you're sleepy" is my favorite rule to break.
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=democrito88&show_icons=true&theme=merko">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=democrito88&theme=merko">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=democrito88&show_icons=true&theme=merko">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
