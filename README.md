@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello there! 👋
 
-<!--
-**democrito88/democrito88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Demócrito. A PHP and JavaScript padawan web developer.
 
-Here are some ideas to get you started:
+- 🔭 My goal is to be a senior Web Developer
+- 🌱 I’m currently learning PHP frameworks, as well as Node.js and React.js
+- 🐧 I prefer to use debian/ubuntu
+- 👯 Need a review on your laravel project? Count me in!
+- ☕ "Never program when you're sleepy" is my favorite rule to break.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=democrito88&show_icons=true&theme=merko">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=democrito88&theme=merko">
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
